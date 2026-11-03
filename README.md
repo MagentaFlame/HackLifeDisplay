@@ -23,7 +23,7 @@ Basically, it was a big learning curve, but through searching code libraries, tu
 CAD!(?)
 
 <img width="649" height="588" alt="image" src="https://github.com/user-attachments/assets/a9d05a90-aee6-4679-9215-ea1a3ea0cb28" />
-
+https://cad.onshape.com/documents/576eb80d83ee613553f22006/w/4f6dd9364f57957917df3f42/e/1331975d95a1b04019fdb0a0 
 So I wanted to make a bottom mount, then resin print the top container, but I ran out of time and budget. So, I'm just gonna get the hardware part fully done. I have the bottom mount done - if my school lets me I'll print it there. If not, it'll just be a simple add-on for the future!
 
 BOM!
