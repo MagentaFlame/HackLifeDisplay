@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 4.96h | 3 |
+| Week 4 | Tier 1 | 7.46h | 3 |
 
 ## Contents
 
@@ -44,9 +44,18 @@ I'm quite nervous as to whether I can get the hours in this week. I'm super tire
 
 ### 2026-11-02: It took ages to find the right parts. It looks fine now, with coupons and careful usage of new user discount (I made sure that I didn't need that discount for previous weeks).
 
-**1.32h**
+**3.82h**
 
 It took ages to find the right parts. It looks fine now, with coupons and careful usage of new user discount (I made sure that I didn't need that discount for previous weeks).
-I also coded the board (most of it
+I also coded the board (most of it, I only have colors I want left). I perused the internet for the github repos, Arduino documents, etc. I used AI to help me explain some code, and I looked at tutorials and examples online to get a sense of how I should structure stuff. I have previous coding experience, just not in C++ and not that much. The tutorials I found weren't exactly perfectly suited for mine, so I had to combine a bunch, like the WIFI ones with HTTP, and those with API stuff. Then once I got those general variables like currentWeather in a String, I could start doing the less "technical" as in less syntax, library heavy stuff and more "fun" stuff like choosing colors, doing cool logic stuff like what I want the button to do, etc.
+I kinda wish I had more time + more money to add more features - it's actually quite fun once I got through that initial difficult learning curve. I'm super excited about what I can do next!!! I practically "unlocked" WiFi now lol. The learning curve was steep though - I was so confused at first, but as the logic and how Arduino works made more and more sense, I felt much better.
+Tomorrow, I will finish the colors, adding readme stuff and whatevers. I also need to figure out my 3dp stuff - am I still doing it? prob not - maybe I can find a place to print it on my own.
+TBH, this night I should've studied for my 3 back-to-back tests tmrw... I actually feel really bad that I didn't, and I need to sleep. Wellllll I just gotta sleep late tn...
+
+tldr: finished getting the BOM, coded most of the arduino (logic, library stuff pretty much done)
+
+[Timelapse](https://lookout.hackclub.com/api/media/f8d0659c-3b65-49b1-8743-119cfe4f2a09/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/1c40cfa7-2226-4cd8-acc5-90f60a2bcfa0/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/b989dd0d-8ba6-40cc-a29b-c69b9b105e54/video.mp4)
